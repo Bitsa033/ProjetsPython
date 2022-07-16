@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d0fba3-af78-4682-9a30-aef8a0ccbbca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListesDesJoueurs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableDeMultiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/joueurs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClasseRobot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjetRobot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjetCalcul.py" beforeDir="false" afterPath="$PROJECT_DIR$/ObjetCalcul.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Voyelle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Voyelle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ListesDesJoueurs">
+  <component name="RunManager" selected="Python.ObjetRobot">
     <configuration name="HelloWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ObjetCalcul" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ObjetRobot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjetCalcul.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjetRobot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ObjetRobot" />
         <item itemvalue="Python.ListesDesJoueurs" />
         <item itemvalue="Python.HelloWord" />
         <item itemvalue="Python.Voyelle" />
         <item itemvalue="Python.TableDeMultiplication" />
-        <item itemvalue="Python.ObjetCalcul" />
       </list>
     </recent_temporary>
   </component>
