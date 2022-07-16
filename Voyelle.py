@@ -1,4 +1,4 @@
-print("Programme qui calcule et affiche le nombre de voyelles que comporte une phrase")
+print("Programme python  qui calcule et affiche le nombre de voyelles que comporte une phrase")
 a = 0
 e = 0
 i = 0

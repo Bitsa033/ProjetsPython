@@ -1,5 +1,3 @@
-import os
-
 from ClasseCalcul import Calculatrice
 
 # (2/6) | 2*7/3+2
@@ -9,4 +7,3 @@ comp = "/"
 resultat = c.calcul(20, 5, comp)
 print(resultat)
 
-os.system('pause')

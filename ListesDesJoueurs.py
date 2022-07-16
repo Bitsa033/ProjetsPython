@@ -1,0 +1,10 @@
+print("Programme python qui enregistre des joueurs dans un fichier !")
+liste = ['lucas', 'djaden']
+print("Liste des joueurs courants:")
+print(liste)
+joueur = input("Entrer le nom du nouveau joueur: ")
+liste.append(joueur)
+file = open('joueurs.txt', 'w+', 1, 'utf8')
+file.write('liste des joueurs {}'.format(liste))
+file.close()
+print(liste)
