@@ -9,10 +9,10 @@ class Robot:
         self.o = orientation
 
     def changeX(self, x):
-        self.x = x
+        self.x += x
 
     def changeY(self, y):
-        self.y = y
+        self.y += y
 
     def deplacerRobot(self, orientation):
         if orientation == self.o:

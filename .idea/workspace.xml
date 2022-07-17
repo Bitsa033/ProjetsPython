@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d0fba3-af78-4682-9a30-aef8a0ccbbca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClasseRobot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjetRobot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClasseRobot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClasseRobot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjetRobot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ObjetRobot.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
